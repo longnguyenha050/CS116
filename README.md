@@ -36,12 +36,12 @@
 - Email: longnguyenha050@gmail.com
 
 - Họ và tên: Nguyễn Thị Lý
-- MSSV:
+- MSSV: 
 - Email:
 
 - Họ và tên: Nguyễn Thu Phương
-- MSSV:
-- Email: 
+- MSSV: 22521167
+- Email: nguyenthuphuong.qc2004@gmail.com
 
 ## Giảng viên hướng dẫn
 - TS. Nguyễn Vinh Tiệp
