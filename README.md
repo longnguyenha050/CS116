@@ -33,7 +33,7 @@
 ## Thành viên
 - Họ và tên: Hà Ngũ Long Nguyên
 - MSSV: 22520965  
-- Email: example@student.edu.vn
+- Email: longnguyenha050@gmail.com
 
 - Họ và tên: Nguyễn Thị Lý
 - MSSV:
