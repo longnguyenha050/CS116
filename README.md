@@ -36,8 +36,8 @@
 - Email: longnguyenha050@gmail.com
 
 - Họ và tên: Nguyễn Thị Lý
-- MSSV: 
-- Email:
+- MSSV: 22520837
+- Email: 123ntly17042004@gmail.com
 
 - Họ và tên: Nguyễn Thu Phương
 - MSSV: 22521167
