@@ -16,14 +16,13 @@
 
 1. Clone repository:
     ```bash
+    git clone https://github.com/longnguyenha050/CS116
+    cd project
     ```
 
 2. Cài đặt môi trường:
     ```bash
-    ```
-
-3. Mở Jupyter Notebook:
-    ```bash
+    pip install -r requirements.txt
     ```
 
 ## Yêu cầu phần mềm
