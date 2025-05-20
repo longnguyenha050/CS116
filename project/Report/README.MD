@@ -7,7 +7,7 @@ Việc lưu theo phiên bản giúp dễ dàng theo dõi tiến trình, so sánh
 ### 🗂️ Quy ước đặt tên file:
 Các file báo cáo nên được đặt theo cú pháp:
 
-{tên_quy_trình}_v{x}.pdf
+`{tên_quy_trình}`_`v{x}`.pdf
 
 Trong đó:
 - `{tên_quy_trình}` là tên bước hoặc kỹ thuật được áp dụng (ví dụ: `Preprocessing`, `Feature_engineering`, `Training`)
