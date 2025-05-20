@@ -5,13 +5,6 @@
 - **Xử lý dữ liệu với NumPy, Pandas**
 - **Trực quan hóa với Matplotlib & Seaborn**
 - **Machine Learning với Scikit-learn**
-    - Hồi quy tuyến tính (Linear Regression)
-    - Hồi quy logistic (Logistic Regression)
-    - K-Nearest Neighbors
-    - Decision Trees
-    - Naive Bayes
-    - Đánh giá mô hình: confusion matrix, accuracy, precision, recall, F1-score
-
 ## Hướng dẫn cài đặt
 
 1. Clone repository:
