@@ -6,10 +6,10 @@ Mô tả quy trình xây dựng dữ liệu trước khi xây dựng mô hình.
 
 ---
 
-## Tạo Feature Mới (Feature Creation)
+## 1. Tạo Feature Mới (Feature Creation)
 
-## Phân tích Ma trận Tương quan (Correlation Analysis)
+## 2. Phân tích Ma trận Tương quan (Correlation Analysis)
 
-## Tính Feature Importance
+## 3. Tính Feature Importance
 
-## Chuẩn hóa hoặc Scale Dữ liệu
+## 4. Chuẩn hóa hoặc Scale Dữ liệu
