@@ -12,7 +12,7 @@ Mô tả quy trình tiền xử lý dữ liệu trước khi xây dựng mô hì
 
 ## 3. Xử lý ngoại lai (Outliers)
 
-## 5. Xử lý cột phân loại
+## 4. Xử lý cột phân loại
 
 
 
