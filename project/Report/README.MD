@@ -1,5 +1,5 @@
 
-## 📁 report Folder Structure
+## 📁 Report Folder Structure
 
 Thư mục `report` được sử dụng để lưu trữ các báo cáo kết quả qua từng giai đoạn phát triển và cải thiện mô hình.  
 Việc lưu theo phiên bản giúp dễ dàng theo dõi tiến trình, so sánh hiệu suất và tái sử dụng các kết quả trước đó khi cần.
